@@ -31,7 +31,7 @@
 请先确保安装好`Laravel`框架，然后运行
 
 ```php
-composer require dcat/page
+composer require kzh/page
 ```
 
 ## 文档
